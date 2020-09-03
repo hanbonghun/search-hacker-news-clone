@@ -1,5 +1,8 @@
 # Clone coding using api and flask provided by the search hacker news site.'
 
+Search hacker news : https://hn.algolia.com/
+HN search api : https://hn.algolia.com/api
+<hr>
 
 You can check the articles in the form you want by importing articles by popularity and date.
 
